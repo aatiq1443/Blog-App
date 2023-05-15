@@ -1,7 +1,7 @@
 # Blog-App
 
 **Project**
-Odin Blog App
+Blog App
 
 **About Tech Stack**
 
